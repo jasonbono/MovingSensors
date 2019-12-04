@@ -1,1 +1,1 @@
-# AverageBySpacing
+# MovingSensors
